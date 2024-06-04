@@ -1,4 +1,4 @@
-## Hi, I'm Yan Moura, a developer from Brazil. Welcome to my github page!
+## Hi, I'm Yan Moura, a developer from Brazil. Welcome to my GitHub page!
 
 <details>
   <summary>Currently working with these languages and frameworks</summary>
