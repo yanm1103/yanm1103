@@ -43,4 +43,4 @@ I've always been passionate about computers, but my interest in programming spec
 
 <a target="_blank" href="https://www.linkedin.com/in/yanmoura"><img src="https://img.shields.io/badge/LinkedIn%20%2D%20yanmoura-0e76a8"></a> 
 <a target="_blank" href="mailto:yanmv11@gmail.com"><img src="https://img.shields.io/badge/Gmail%20-%20yanmv11@gmail.com-c71610"></a>
-<a target="_blank" href="https://discordapp.com/channels/@me/216359660171558913/"><img src="https://img.shields.io/badge/Discord%20-%20twistzero-5865F2"></a>
+<img src="https://img.shields.io/badge/Discord%20-%20twistzero-5865F2">
