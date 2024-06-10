@@ -7,11 +7,11 @@
   
 - My most recent "for fun" project so far is [Angular Tour of Heroes](https://github.com/yanm1103/Angular-Tour-of-Heroes), an Angular tutorial app where I not only follow the tutorial but decided to add some fancy details to it. I'll keep on adding screenshots of my progress as I go along.
 
-  [![Tour of Heroes link](https://github-readme-stats.vercel.app/api/pin?username=yanm1103&repo=Angular-Tour-of-Heroes&theme=transparent&border_color=0363&title_color=fff&bg_color=0d1117)](https://github.com/yanm1103/Angular-Tour-of-Heroes)
+  [![Tour of Heroes link](https://github-readme-stats.vercel.app/api/pin?username=yanm1103&repo=Angular-Tour-of-Heroes&theme=transparent&border_color=30363d&title_color=fff&bg_color=0d1117)](https://github.com/yanm1103/Angular-Tour-of-Heroes)
 
 - Something else I'm proud of is [Doom Chaves](https://github.com/yanm1103/DOOM-Chaves), which is a DOOM 2 mod/wad based on the TV series El Chavo (or just Chaves in Brazil). It features custom sprites, sounds, 3D objects, textures and scripts. Most of these assets were made from scratch or ported by me, a friend, or adapted from the show itself, to fit the very low resolutions of DOOM.
 
-  [![Doom Chaves link](https://github-readme-stats.vercel.app/api/pin?username=yanm1103&repo=DOOM-Chaves&theme=transparent&border_color=0363&title_color=fff&bg_color=0d1117)](https://github.com/yanm1103/DOOM-Chaves)
+  [![Doom Chaves link](https://github-readme-stats.vercel.app/api/pin?username=yanm1103&repo=DOOM-Chaves&theme=transparent&border_color=30363d&title_color=fff&bg_color=0d1117)](https://github.com/yanm1103/DOOM-Chaves)
 </details>
 
 <details>
@@ -45,13 +45,11 @@ I've always been passionate about computers, but my interest in programming spec
   - Once every full moon or so, I try to draw something.
 </details>
 
-<hr>
-
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yanm1103&layout=compact&langs_count=8&card_width=320&theme=transparent&&border_color=0363&title_color=fff&bg_color=0d1117" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yanm1103&layout=compact&langs_count=8&card_width=320&border_color=30363d&title_color=fff&bg_color=0d1117&custom_title=Most%20used%20languages" />
 
 <hr>
 
-### You can contact me through the following links:
+### Contact me
 
 <a><img src="https://img.shields.io/badge/twistzero-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="mailto:yanmv11@gmail.com"><img src="https://img.shields.io/badge/-yanmv11@gmail.com-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
