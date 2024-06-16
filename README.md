@@ -5,7 +5,7 @@
 <details>
   <summary><h3>✨ Featured projects</h3></summary>
   
-- My most recent finished project so far is [Angular Tour of Heroes](https://github.com/yanm1103/Angular-Tour-of-Heroes), an Angular app where I not only follow Angular 17's tutorial but decided to add some fancy details to it. I've also decided to update it to 18 to use some of the new features such as the @for (previously *ngFor). This has been a journey, and I hope to put these skills to good use in a new project soon.
+- My most recent finished project so far is [Angular Tour of Heroes]([https://github.com/yanm1103/Angular-Tour-of-Heroes](https://yanm1103.github.io/tour-of-heroes)), an Angular app where I not only follow Angular 17's tutorial but decided to add some fancy details to it. I've also decided to update it to 18 to use some of the new features such as the @for (previously *ngFor). This has been a journey, and I hope to put these skills to good use in a new project soon.
 
   [![Tour of Heroes link](https://github-readme-stats.vercel.app/api/pin?username=yanm1103&repo=Angular-Tour-of-Heroes&theme=transparent&border_color=30363d&title_color=fff&bg_color=0d1117)](https://github.com/yanm1103/Angular-Tour-of-Heroes)
 
