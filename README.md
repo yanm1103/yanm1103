@@ -1,11 +1,11 @@
 ## Hi! I'm Yan Moura, a developer from Brazil. Welcome to my GitHub page!
 
-
-
 <details>
   <summary><h3>✨ Featured projects</h3></summary>
+
+- I've recently developed the following Visual Code Extension as a way of easing my own work and that of my colleagues. Since we're working with a legacy codebase, some features of vscode end up throwing unecessary errors for us and disrupting syntax highlighting for our files. Hence why I created the [Alfresco 6.2 Rhino Web Script](https://github.com/yanm1103/alfresco-rhino) extension.
   
-- My most recent finished project so far is [Angular Tour of Heroes](https://yanm1103.github.io/tour-of-heroes), an Angular app where I not only follow Angular 17's tutorial but decided to add some fancy details to it. I've also decided to update it to 18 to use some of the new features such as the @for (previously *ngFor). This has been a journey, and I hope to put these skills to good use in a new project soon.
+- Last year, I had made [Angular Tour of Heroes](https://yanm1103.github.io/tour-of-heroes), an Angular app where I not only follow Angular 17's tutorial but decided to add some fancy details to it. I've also decided to update it to 18 to use some of the new features such as the @for (previously *ngFor). This has been a journey, and I hope to put these skills to good use in a new project soon.
 
   [![Tour of Heroes link](https://github-readme-stats.vercel.app/api/pin?username=yanm1103&repo=Angular-Tour-of-Heroes&theme=transparent&border_color=30363d&title_color=fff&bg_color=0d1117)](https://github.com/yanm1103/Angular-Tour-of-Heroes)
 
