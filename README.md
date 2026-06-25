@@ -24,12 +24,13 @@ I've always been passionate about computers, but my interest in programming spec
 
  - AngularJS | Javascript (current full-time job)
  - [Rhino](https://github.com/mozilla/rhino) | Java (current full-time job)
- - Angular | Typescript (learning)
+ - React | TSX (learning)
 </details>
 
 <details>
   <summary>🦖 Languages that I interacted with in the past</summary>
   
+  - Angular (2.x+)
   - [ZScript](https://zdoom.org/wiki/ZScript)
   - C (in college)
   - C++ (hobby)
