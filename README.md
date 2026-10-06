@@ -1,30 +1,12 @@
 ## Hi! I'm Yan Moura, a developer from Brazil. Welcome to my GitHub page!
 
 <details>
-  <summary><h3>✨ Featured projects</h3></summary>
-
-- I've recently developed the following Visual Code Extension as a way of easing my own work and that of my colleagues. Since we're working with a legacy codebase, some features of vscode end up throwing unecessary errors for us and disrupting syntax highlighting for our files. Hence why I created the [Alfresco 6.2 Rhino Web Script](https://github.com/yanm1103/alfresco-rhino) extension.
-  
-- Last year, I had made [Angular Tour of Heroes](https://yanm1103.github.io/tour-of-heroes), an Angular app where I not only follow Angular 17's tutorial but decided to add some fancy details to it. I've also decided to update it to 18 to use some of the new features such as the @for (previously *ngFor). This has been a journey, and I hope to put these skills to good use in a new project soon.
-
-  [![Tour of Heroes link](https://github-readme-stats.vercel.app/api/pin?username=yanm1103&repo=Angular-Tour-of-Heroes&theme=transparent&border_color=30363d&title_color=fff&bg_color=0d1117)](https://github.com/yanm1103/Angular-Tour-of-Heroes)
-
-- Something else I'm proud of is [Doom Chaves](https://github.com/yanm1103/DOOM-Chaves), which is a DOOM 2 mod/wad based on the TV series El Chavo (or just Chaves in Brazil). It features custom sprites, sounds, 3D objects, textures and scripts. Most of these assets were made from scratch or ported by me, a friend, or adapted from the show itself, to fit the very low resolutions of DOOM.
-
-  [![Doom Chaves link](https://github-readme-stats.vercel.app/api/pin?username=yanm1103&repo=DOOM-Chaves&theme=transparent&border_color=30363d&title_color=fff&bg_color=0d1117)](https://github.com/yanm1103/DOOM-Chaves)
-</details>
-
-<details>
-  <summary>👋 A quick introduction</summary>
-I've always been passionate about computers, but my interest in programming specifically started in college. When I first used the algorithm writing software Visualg (Portugol) to create a Fibonacci sequence generator, it felt like something clicked. At that moment, I understood how rewarding it is to solve a problem. Years later, I landed a job as a programmer and have been happy ever since. The satisfaction of finally fixing a bug/developing a new page or function, and seeing the product run flawlessly in production, makes all the hard work worthwhile.
-</details>
-
-<details>
-  <summary>⛏️ Currently working with these languages and frameworks</summary>
+  <summary>Currently working with these languages and frameworks</summary>
 
  - AngularJS | Javascript (current full-time job)
- - [Rhino](https://github.com/mozilla/rhino) | Java (current full-time job)
- - React | TSX (learning)
+ - [Rhino](https://github.com/mozilla/rhino) (current full-time job)
+ - Java (current full-time job)
+ - React | TSX
 </details>
 
 <details>
